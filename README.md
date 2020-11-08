@@ -16,4 +16,5 @@ It's really helpful for the organizer to get all these statistical data about hi
 We have plans to integrate barcode scanning feature in the app. While in a store, you can scan the barcode on a meat package and instantly get to know the whole timeline of production from HKScan's data. From farming to packaging, you can get a series of operations and farm monitoring data collected periodically.
 
 Watch a preview of the app here -> https://www.youtube.com/watch?v=vn8vKYaDrNw
+
 Test the Android version here -> https://drive.google.com/file/d/1pafgVrGNy5Dvlz61jUuIKPfqTdE4maBi/view?usp=sharing
