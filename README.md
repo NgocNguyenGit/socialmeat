@@ -18,3 +18,6 @@ We have plans to integrate barcode scanning feature in the app. While in a store
 Watch a preview of the app here -> https://www.youtube.com/watch?v=vn8vKYaDrNw
 
 Test the Android version here -> https://drive.google.com/file/d/1pafgVrGNy5Dvlz61jUuIKPfqTdE4maBi/view?usp=sharing
+
+### My contribution
+UX designer
